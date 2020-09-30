@@ -1,5 +1,3 @@
-Forked from https://github.com/dedelala/hello-go-lambda
-
 # Hello Go Lambda
 
 A presentation and supporting code for an introduction to Go Lambdas.
